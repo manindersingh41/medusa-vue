@@ -1,0 +1,278 @@
+{
+    "branchDefault": [
+        {
+            "image": "/img/branch/brand-1.jpg",
+            "text": "BestPharm"
+        },
+        {
+            "image": "/img/branch/brand-2.jpg",
+            "text": "HeartRate"
+        },
+        {
+            "image": "/img/branch/brand-3.jpg",
+            "text": "HeartShield"
+        },
+        {
+            "image": "/img/branch/brand-4.jpg",
+            "text": "iHeart"
+        },
+        {
+            "image": "/img/branch/brand-5.jpg",
+            "text": "iLovehealth"
+        },
+        {
+            "image": "/img/branch/brand-6.jpg",
+            "text": "Medialarm"
+        },
+        {
+            "image": "/img/branch/brand-7.jpg",
+            "text": "Medicstore"
+        },
+        {
+            "image": "/img/branch/brand-8.jpg",
+            "text": "MyMedi"
+        },
+        {
+            "image": "/img/branch/brand-9.jpg",
+            "text": "Pharmy"
+        },
+        {
+            "image": "/img/branch/brand-10.jpg",
+            "text": "WeTakeCare"
+        }
+    ],
+    "branchDark": [
+        {
+            "image": "/img/branch/brand-dark-1.jpg",
+            "text": "BestPharm"
+        },
+        {
+            "image": "/img/branch/brand-dark-2.jpg",
+            "text": "HeartRate"
+        },
+        {
+            "image": "/img/branch/brand-dark-3.jpg",
+            "text": "HeartShield"
+        },
+        {
+            "image": "/img/branch/brand-dark-4.jpg",
+            "text": "iHeart"
+        },
+        {
+            "image": "/img/branch/brand-dark-5.jpg",
+            "text": "iLovehealth"
+        },
+        {
+            "image": "/img/branch/brand-dark-6.jpg",
+            "text": "Medialarm"
+        },
+        {
+            "image": "/img/branch/brand-dark-7.jpg",
+            "text": "Medicstore"
+        },
+        {
+            "image": "/img/branch/brand-dark-8.jpg",
+            "text": "MyMedi"
+        },
+        {
+            "image": "/img/branch/brand-dark-9.jpg",
+            "text": "Pharmy"
+        },
+        {
+            "image": "/img/branch/brand-dark-10.jpg",
+            "text": "WeTakeCare"
+        }
+    ],
+    "reviews": [
+        {
+            "name": "Esther Howard",
+            "images": [
+                "/img/reviews/testimonial1.jpg",
+                "/img/reviews/testimonial2.jpg"
+            ],
+            "avatar": "/img/avatar/1-100x100.png",
+            "date": "October 30",
+            "rate": 4,
+            "text": "There was a small mistake in the order. In return, I got the correct order and I could keep the wrong one for myself."
+        },
+        {
+            "name": "Albert Flores",
+            "avatar": "/img/avatar/2-100x100.png",
+            "date": "October 25",
+            "rate": 4,
+            "text": "I ordered on Friday evening and on Monday at 12:30 the package was with me. I have never encountered such a fast order processing."
+        },
+        {
+            "name": "Dianne Russell",
+            "images": ["/img/reviews/testimonial6.jpg"],
+            "avatar": "/img/avatar/5-100x100.png",
+            "date": "September 24",
+            "rate": 4,
+            "text": "I ordered on Friday evening and on Monday at 12:30 the package was with me. I have never encountered such a fast order processing."
+        },
+        {
+            "name": "Darlene Robertson",
+            "avatar": "/img/avatar/4-100x100.png",
+            "date": "May 20",
+            "rate": 4,
+            "text": "Everything is perfect. I would recommend!"
+        },
+        {
+            "name": "Brooklyn Simmons",
+            "images": [
+                "/img/reviews/testimonial3.jpg",
+                "/img/reviews/testimonial4.jpg",
+                "/img/reviews/testimonial5.png"
+            ],
+            "avatar": "/img/avatar/3-100x100.png",
+            "date": "May 29",
+            "rate": 4,
+            "text": "There was a small mistake in the order. In return, I got the correct order and I could keep the wrong one for myself."
+        },
+        {
+            "name": "Mark J.",
+            "rate": 4,
+            "avatar": "/img/avatar/6-100x100.png",
+            "text": "I ordered on Friday evening and on Monday at 12:30 the package was with me. I have never encountered such a fast order processing."
+        }
+    ],
+    "instagram": [
+        {
+            "image": "/img/instagram/instagram1.jpg",
+            "link": "https://www.instagram.com/p/CDf7FC7pwae/"
+        },
+        {
+            "image": "/img/instagram/instagram2.jpg",
+            "link": "https://www.instagram.com/p/CDf7D5zJqwo/"
+        },
+        {
+            "image": "/img/instagram/instagram3.jpg",
+            "link": "https://www.instagram.com/p/CDf7BnapGmv/"
+        },
+        {
+            "image": "/img/instagram/instagram4.jpg",
+            "link": "https://www.instagram.com/p/CDf7Af8JWDj/"
+        },
+        {
+            "image": "/img/instagram/instagram5.jpg",
+            "link": "https://www.instagram.com/p/CDf6_QEpWYv/"
+        },
+        {
+            "image": "/img/instagram/instagram6.jpg",
+            "link": "https://www.instagram.com/p/CDf69FupFee/"
+        }
+    ],
+    "reviewProduct": [
+        {
+            "image": "/img/avatar/avatar-review.jpg",
+            "name": "Mark J.",
+            "rating": 4,
+            "date": "Oct 30, 2021",
+            "desc": "Everything is perfect. I would recommend!"
+        },
+        {
+            "image": "/img/avatar/avatar-review2.jpg",
+            "name": "Ann R.",
+            "rating": 4,
+            "date": "Oct 30, 2021",
+            "desc": "There was a small mistake in the order. In return, I got the correct order and I could keep the wrong one for myself."
+        },
+        {
+            "image": "/img/avatar/avatar-review3.jpg",
+            "name": "Jenna S.",
+            "rating": 4,
+            "date": "Oct 30, 2021",
+            "desc": "I ordered on Friday evening and on Monday at 12:30 the package was with me. I have never encountered such a fast order processing."
+        },
+        {
+            "image": "/img/avatar/avatar-review4.jpg",
+            "name": "John M.",
+            "rating": 4,
+            "date": "Oct 30, 2021",
+            "desc": "Everything is perfect. I would recommend!"
+        },
+        {
+            "image": "/img/avatar/avatar-review.jpg",
+            "name": "Mark J.",
+            "rating": 4,
+            "date": "Oct 30, 2021",
+            "desc": "There was a small mistake in the order. In return I got the correct order and I could keep the wrong one for myself."
+        }
+    ],
+    "colors": [
+        {
+            "text": "Gray",
+            "value": "#5b6c8f"
+        },
+        {
+            "text": "Green",
+            "value": "#12a05c"
+        },
+        {
+            "text": "Red",
+            "value": "#f00000"
+        },
+        {
+            "text": "Yellow",
+            "value": "#ff9923"
+        },
+        {
+            "text": "Black",
+            "value": "#313330"
+        },
+        {
+            "text": "Blue",
+            "value": "#58c8ec"
+        },
+        {
+            "text": "Navy",
+            "value": "#103178"
+        }
+    ],
+    "commentPost": [
+        {
+            "image": "/img/avatar/avatar-review3.jpg",
+            "name": "Jenna S.",
+            "date": "Aug 12, 2021",
+            "desc": "Everything is perfect. I would recommend!",
+            "post": true
+        },
+        {
+            "image": "/img/avatar/avatar-review4.jpg",
+            "name": "John M.",
+            "date": "Aug 12, 2021",
+            "desc": "I ordered on Friday evening and on Monday at 12:30 the package was with me. I have never encountered such a fast order processing.",
+            "post": true,
+            "children": [
+                {
+                    "image": "/img/avatar/avatar-admin.jpg",
+                    "name": "Admin",
+                    "date": "Oct 30, 2021",
+                    "desc": "Everything is perfect. I would recommend!",
+                    "post": true
+                },
+                {
+                    "image": "/img/avatar/avatar-review4.jpg",
+                    "name": "John M.",
+                    "date": "Oct 30, 2021",
+                    "desc": "Thank you for your reply and help!",
+                    "post": true
+                }
+            ]
+        },
+        {
+            "image": "/img/avatar/avartar-comment.jpg",
+            "name": "Monica B.",
+            "date": "Aug 12, 2021",
+            "desc": "There was a small mistake in the order. In return, I got the correct order and I could keep the wrong one for myself. I ordered on Friday evening and on Monday at 12:30 the package was with me. I have never encountered such a fast order processing.",
+            "post": true
+        },
+        {
+            "image": "/img/avatar/avatar-review2.jpg",
+            "name": "Ann R.",
+            "date": "Aug 12, 2021",
+            "desc": "Everything is perfect. I would recommend!",
+            "post": true
+        }
+    ]
+}

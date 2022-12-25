@@ -1,0 +1,275 @@
+{
+    "information": {
+        "title": "Information",
+        "items": [
+            {
+                "text": "About us",
+                "url": "/about-us"
+            },
+            {
+                "text": "Delivery information",
+                "url": "#"
+            },
+            {
+                "text": "Privacy Policy",
+                "url": "#"
+            },
+            {
+                "text": "Sales",
+                "url": "#"
+            },
+            {
+                "text": "Terms & Conditions",
+                "url": "#"
+            }
+        ]
+    },
+    "account": {
+        "title": "Account",
+        "items": [
+            {
+                "text": "My account",
+                "url": "#"
+            },
+            {
+                "text": "My orders",
+                "url": "#"
+            },
+            {
+                "text": "Returns",
+                "url": "#"
+            },
+            {
+                "text": "Shipping",
+                "url": "#"
+            },
+            {
+                "text": "Wishlist",
+                "url": "/shop/wishlist"
+            }
+        ]
+    },
+    "store": {
+        "title": "Store",
+        "items": [
+            {
+                "text": "Affiliate",
+                "url": "#"
+            },
+            {
+                "text": "Bestsellers",
+                "url": "#"
+            },
+            {
+                "text": "Discount",
+                "url": "#"
+            },
+            {
+                "text": "Latest products",
+                "url": "#"
+            },
+            {
+                "text": "Sale",
+                "url": "#"
+            }
+        ]
+    },
+    "woundCare": {
+        "title": "Wound Care",
+        "items": [
+            {
+                "text": "Bandages",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Gypsum foundations",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Patches and tapes",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Stomatology",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Surgical sutures",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Uniforms",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Wound healing",
+                "url": "/blog/sidebar-1"
+            }
+        ]
+    },
+    "higiene": {
+        "title": "Higiene",
+        "items": [
+            {
+                "text": "Disposable products",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Face masks",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Gloves",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Protective covers",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Sterilization",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Surgical foils",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Uniforms",
+                "url": "/blog/sidebar-1"
+            }
+        ]
+    },
+    "laboratory": {
+        "title": "Laboratory",
+        "items": [
+            {
+                "text": "Devices",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Diagnostic tests",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Disinfectants",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Dyes",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Pipettes",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Test-tubes",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Tubes",
+                "url": "/blog/sidebar-1"
+            }
+        ]
+    },
+    "tools": {
+        "title": "Tools",
+        "items": [
+            {
+                "text": "Accessories Tools",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Blood pressure",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Capsules",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Dental",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Micrscope",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Pressure",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Sugar level",
+                "url": "/blog/sidebar-1"
+            }
+        ]
+    },
+    "diagnosis": {
+        "title": "Diagnosis",
+        "items": [
+            {
+                "text": "Biopsy tools",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Endoscopes",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Monitoring",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Otoscopes",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Oxygen concentrators",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Tables and assistants",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Thermometer",
+                "url": "/blog/sidebar-1"
+            }
+        ]
+    },
+    "equipment": {
+        "title": "Equipment",
+        "items": [
+            {
+                "text": "Blades",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Education",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Germicidal lamps",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Heart Health",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Infusion stands",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Lighting",
+                "url": "/blog/sidebar-1"
+            },
+            {
+                "text": "Machines",
+                "url": "/blog/sidebar-1"
+            }
+        ]
+    }
+}

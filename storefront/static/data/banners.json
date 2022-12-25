@@ -1,0 +1,947 @@
+{
+    "home1Banner": [
+        {
+            "title": "Candid <br/> Whitening Kit",
+            "desc": "Only in this week. Don’t misss!",
+            "shop": "bg-warning",
+            "price": {
+                "del": "$29.99",
+                "ins": "$15.99"
+            },
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-warning ps-center"
+            },
+            "img": "/img/promotion/slide1.png",
+            "round": "/img/round2.png",
+            "bgColor": "#DAECFA"
+        },
+        {
+            "title": "Antibacterial<br/> Medical Mask",
+            "desc": "Just a few seconds to measure your body temperature.",
+            "shop": "bg-warning",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "percent": {
+                "text": "<small>only</small>$25",
+                "extraClass": "bg-yellow ps-top"
+            },
+            "img": "/img/promotion/slide3.png",
+            "round": "/img/round5.png",
+            "bgColor": "#F0F2F5"
+        },
+        {
+            "title": "Get rid of bacteria <br/>in your home",
+            "desc": "Get rid of all bacteria!",
+            "shop": "bg-white",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "percent": {
+                "text": "-25%",
+                "extraClass": "bg-primary"
+            },
+            "img": "/img/promotion/slide4.png",
+            "round": "/img/round2.png",
+            "bgColor": "#FFCC00"
+        }
+    ],
+    "home2Banner": [
+        {
+            "title": "PowerSteel <br/> X-tra 200 Brush",
+            "desc": "Only in this week. Don’t misss!",
+            "cart": "bg-yellow",
+            "price": {
+                "del": "$15.99",
+                "ins": "$29.99",
+                "color": "text-yellow"
+            },
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-yellow"
+            },
+            "img": "/img/promotion/slide2.jpg",
+            "bgColor": "#103178",
+            "textColor": "text-white",
+            "noFull": true
+        },
+        {
+            "title": "Fully equipped <br/> of ophthalmic rooms",
+            "desc": "Only in this week. Don’t misss!",
+            "shop": "bg-warning",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "percent": {
+                "text": "<small>only</small>$25",
+                "extraClass": "bg-yellow ps-top"
+            },
+            "img": "/img/promotion/slide5.jpg",
+            "round": "/img/round2.png",
+            "bgColor": "#F0F2F5"
+        },
+        {
+            "title": "Antibacterial <br/> Medical Mask",
+            "desc": "Only in this week. Don’t misss!",
+            "cart": "bg-warning",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-warning ps-left"
+            },
+            "img": "/img/promotion/slide8.jpg",
+            "bgColor": "#306A53",
+            "buttonColor": "text-warning",
+            "textColor": "text-white",
+            "noFull": true,
+            "filter": "filter: invert(60%) sepia(75%) saturate(1000%) hue-rotate(360deg) brightness(100%) contrast(100%);"
+        }
+    ],
+    "home3Banner": [
+        {
+            "title": "Antibacterial<br/> Medical Mask",
+            "desc": "Just a few seconds to measure your body temperature.",
+            "shop": "bg-warning",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "percent": {
+                "text": "<small>only</small>$25",
+                "extraClass": "bg-yellow ps-top"
+            },
+            "img": "/img/promotion/slide3.png",
+            "round": "/img/round5.png",
+            "bgColor": "#F0F2F5"
+        },
+        {
+            "title": "PowerSteel <br/> X-tra 200 Brush",
+            "desc": "Only in this week. Don’t misss!",
+            "cart": "bg-yellow",
+            "price": {
+                "del": "$15.99",
+                "ins": "$29.99",
+                "color": "text-yellow"
+            },
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-yellow"
+            },
+            "img": "/img/promotion/bg-slide3-home3.jpg",
+            "round": "",
+            "bgColor": "#103178",
+            "textColor": "text-white"
+        }
+    ],
+    "home4Banner": [
+        {
+            "title": "Get rid of bacteria <br/>in your home",
+            "desc": "Get rid of all bacteria!",
+            "shop": "bg-white",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "percent": {
+                "text": "-25%",
+                "extraClass": "bg-primary"
+            },
+            "img": "/img/promotion/slide4.png",
+            "round": "/img/round2.png",
+            "bgColor": "#FFCC00",
+            "buttonColor": "font-bold"
+        },
+        {
+            "title": "Antibacterial<br/> Medical Mask",
+            "desc": "Just a few seconds to measure your body temperature.",
+            "shop": "bg-warning",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "percent": {
+                "text": "<small>only</small>$25",
+                "extraClass": "bg-yellow ps-top"
+            },
+            "img": "/img/promotion/slide3.png",
+            "round": "/img/round5.png",
+            "bgColor": "#F0F2F5"
+        },
+        {
+            "title": "Candid <br/> Whitening Kit",
+            "desc": "Only in this week. Don’t misss!",
+            "shop": "bg-warning",
+            "price": {
+                "del": "$29.99",
+                "ins": "$15.99"
+            },
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-warning ps-center"
+            },
+            "img": "/img/promotion/slide1.png",
+            "round": "/img/round2.png",
+            "bgColor": "#DAECFA"
+        }
+    ],
+    "home5Banner": [
+        {
+            "title": "Fully equipped<br/> of ophthalmic <br/>rooms",
+            "desc": "Only in this week. Don’t misss!",
+            "shop": "bg-warning",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-yellow ps-center"
+            },
+            "img": "/img/promotion/slide5.jpg",
+            "round": "/img/round5.png",
+            "bgColor": "#F0F2F5"
+        },
+        {
+            "title": "Get rid of bacteria <br/>in your home",
+            "desc": "Get rid of all bacteria!",
+            "shop": "bg-white",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "percent": {
+                "text": "-25%",
+                "extraClass": "bg-primary"
+            },
+            "img": "/img/promotion/slide4.png",
+            "round": "/img/round2.png",
+            "bgColor": "#FFCC00",
+            "buttonColor": "font-bold"
+        },
+        {
+            "title": "Candid <br/> Whitening Kit",
+            "desc": "Only in this week. Don’t misss!",
+            "shop": "bg-warning",
+            "price": {
+                "del": "$29.99",
+                "ins": "$15.99"
+            },
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-warning ps-center"
+            },
+            "img": "/img/promotion/slide1.png",
+            "round": "/img/round2.png",
+            "bgColor": "#DAECFA"
+        }
+    ],
+    "home6Banner": [
+        {
+            "title": "Antibacterial <br/>Medical Mask",
+            "desc": "Just a few seconds to measure your <br/>body temperature.",
+            "shop": "bg-warning",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "percent": {
+                "text": "only <br/> $25",
+                "extraClass": "bg-yellow"
+            },
+            "img": "/img/promotion/home6-bg.jpg",
+            "round": "/img/round5.png",
+            "bgColor": "#fcfcfe",
+            "imgbg": "not-fuild",
+            "filter": "filter: invert(40%) sepia(50%) saturate(366%) hue-rotate(182deg) brightness(80%) contrast(89%);"
+        },
+        {
+            "title": "Dental office <br/> equipement <br/> on sale",
+            "desc": "Only in this week. Don’t misss!",
+            "shop": "bg-warning",
+            "price": {
+                "del": "$29.99",
+                "ins": "$15.99"
+            },
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-primary"
+            },
+            "img": "/img/promotion/home6-bg2.jpg",
+            "bgColor": "#fcfcfe",
+            "imgbg": "fuild"
+        },
+        {
+            "title": "Best prices <br/> for all the lenses",
+            "desc": "All correction values",
+            "shop": "bg-warning",
+            "textSale": "Up to -30%",
+            "img": "/img/promotion/home6-bg3.jpg",
+            "bgColor": "rgb(243 245 244)",
+            "imgbg": "fuild"
+        }
+    ],
+    "home7Banner": [
+        {
+            "title": "SonicX900 <br>Electrical Brush",
+            "desc": "Now with special price -30%",
+            "shop": "bg-warning",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "baged": "New",
+            "percent": {
+                "text": "New",
+                "extraClass": "bg-success",
+                "thumbnail": true
+            }
+        },
+        {
+            "title": "New stylish colors <br>now available!",
+            "desc": "Choose a color that really <br>matches your personality",
+            "shop": "bg-pink",
+            "baged": "New"
+        }
+    ],
+    "home4BannerContent": [
+        {
+            "title": "PowerSteel <br/>X-tra 200 Brush",
+            "shop": "bg-yellow",
+            "price": {
+                "del": "$15.99",
+                "ins": "$25.99",
+                "color": "text-yellow"
+            },
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-yellow"
+            },
+            "img": "/img/promotion/home4-banner-4.jpg",
+            "bgColor": "#103178",
+            "textColor": "text-white",
+            "textShop": "Add to cart"
+        },
+        {
+            "title": "Fully equipped <br/>of ophthalmic rooms",
+            "shop": "bg-warning",
+            "textShop": "Add to cart",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-yellow ps-right"
+            },
+            "img": "/img/promotion/bg.jpg",
+            "bgColor": "#FFCC00"
+        },
+        {
+            "title": "Antibacterial <br/>Medical Mask",
+            "shop": "bg-warning",
+            "textShop": "Add to cart",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-warning ps-left"
+            },
+            "img": "/img/promotion/anti-virus-bg.jpg",
+            "bgColor": "#FFCC00",
+            "textColor": "text-white",
+            "buttonColor": "text-warning",
+            "filter": "filter: invert(60%) sepia(75%) saturate(1000%) hue-rotate(360deg) brightness(100%) contrast(100%);"
+        },
+        {
+            "title": "Super Sonic Brush <br/>X200 Higenic",
+            "shop": "bg-warning",
+            "textShop": "Add to cart",
+            "button": [
+                {
+                    "icon": "/img/icon/tooth-brush-icon.png",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/dashboard-icon.png",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-primary"
+            },
+            "img": "/img/promotion/bg-banner-detal.jpg",
+            "bgColor": "#FFCC00"
+        }
+    ],
+    "home5BannerContent": [
+        {
+            "title": "Take care of <br/>yourself and <br/>your loved ones",
+            "shop": "bg-yellow",
+            "textShop": "Face mask",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "img": "/img/promotion/bg-banner15.jpg",
+            "bgColor": "#FFCC00"
+        },
+        {
+            "title": "Best blood <br/>pressure <br/>monitors",
+            "shop": "bg-yellow",
+            "textShop": "Blood pressure",
+            "img": "/img/promotion/blood-pressure.jpg",
+            "bgColor": "#FFCC00"
+        },
+        {
+            "title": "Home and <br/>dental office <br/>equipment",
+            "shop": "bg-yellow",
+            "textShop": "Dental",
+            "price": {
+                "del": "$15.99",
+                "ins": "$25.99",
+                "color": "text-yellow"
+            },
+            "img": "/img/promotion/bg-banner-dental.jpg",
+            "bgColor": "#FFCC00",
+            "textColor": "text-white"
+        }
+    ],
+    "home6BannerContent": [
+        {
+            "title": "The best quality <br/>masks at the<br/>best price",
+            "shop": "bg-warning",
+            "button": [
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Up to 5 users simultaneously"
+                },
+                {
+                    "icon": "/img/icon/ribbon.svg",
+                    "text": "Has HEALTH certificate"
+                }
+            ],
+            "img": "/img/promotion/face-masks.jpg",
+            "bgColor": "#fcfcfe"
+        },
+        {
+            "title": "PowerSteel <br/>X-tra 200 Brush",
+            "shop": "bg-yellow",
+            "price": {
+                "del": "$15.99",
+                "ins": "$25.99",
+                "color": "text-yellow"
+            },
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-yellow"
+            },
+            "img": "/img/promotion/home4-banner-4.jpg",
+            "bgColor": "#103178",
+            "textColor": "text-white",
+            "textShop": "Add to cart"
+        },
+        {
+            "title": "Your one and only <br>online pharmacy!",
+            "desc": "Just a few seconds to measure<br>your body temperature.",
+            "shop": "bg-yellow",
+            "textShop": "About",
+            "button": [
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Up to 5 users simultaneously"
+                },
+                {
+                    "icon": "/img/icon/ribbon.svg",
+                    "text": "Has HEALTH certificate"
+                }
+            ],
+            "round": "/img/round5.png",
+            "img": "/img/girl-face-mask.png"
+        }
+    ],
+    "home8Banner": [
+        {
+            "title": "Antibacterial <br/> Medical Mask",
+            "desc": "Only in this week. Don’t misss!",
+            "cart": "bg-warning",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-warning ps-left"
+            },
+            "img": "/img/promotion/slide8.jpg",
+            "round": "",
+            "bgColor": "#306A53",
+            "buttonColor": "text-warning",
+            "textColor": "text-white",
+            "noFull": true,
+            "filter": "filter: invert(60%) sepia(75%) saturate(1000%) hue-rotate(360deg) brightness(100%) contrast(100%);"
+        },
+        {
+            "title": "PowerSteel <br/> X-tra 200 Brush",
+            "desc": "Only in this week. Don’t misss!",
+            "cart": "bg-yellow",
+            "price": {
+                "del": "$29.99",
+                "ins": "$15.99",
+                "color": "text-yellow"
+            },
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-yellow"
+            },
+            "img": "/img/promotion/slide2.jpg",
+            "round": "",
+            "bgColor": "#103178",
+            "textColor": "text-white",
+            "noFull": true
+        },
+        {
+            "title": "Fully equipped <br/> of ophthalmic rooms",
+            "desc": "Only in this week. Don’t misss!",
+            "shop": "bg-warning",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "percent": {
+                "text": "<small>only</small>$25",
+                "extraClass": "bg-yellow ps-top"
+            },
+            "img": "/img/promotion/slide5.jpg",
+            "round": "/img/round2.png",
+            "bgColor": "#F0F2F5"
+        }
+    ],
+    "home12Banner": [
+        {
+            "title": "Antibacterial <br/>Medical Mask",
+            "desc": "Just a few seconds to measure your <br/>body temperature.",
+            "shop": "bg-warning",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "img": "/img/girl-face-mask.png",
+            "round": "/img/round5.png",
+            "bgColor": "#fcfcfe",
+            "bannerRound": true,
+            "filter": "filter: invert(9%) sepia(19%) saturate(9%) hue-rotate(352deg) brightness(101%) contrast(91%);"
+        },
+        {
+            "title": "Antibacterial <br/>Medical Mask",
+            "desc": "Just a few seconds to measure your <br/>body temperature.",
+            "shop": "bg-warning",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "img": "/img/promotion/home6-bg.jpg",
+            "round": "/img/round5.png",
+            "bgColor": "#fcfcfe",
+            "bannerRound": true,
+            "filter": "filter: invert(9%) sepia(19%) saturate(9%) hue-rotate(352deg) brightness(101%) contrast(91%);"
+        }
+    ],
+    "home13Banner": [
+        {
+            "title": "Premium CBD <br/>Oil 1000mg",
+            "desc": "Only in this week. Don’t misss!",
+            "shop": "bg-warning",
+            "price": {
+                "del": "$29.99",
+                "ins": "$15.99",
+                "color": "text-warning"
+            },
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-warning"
+            },
+            "img": "/img/promotion/slide13.jpg",
+            "bgColor": "#DAECFA",
+            "textColor": "text-dark",
+            "imgbg": "d-block"
+        },
+        {
+            "title": "Mouth Rinse <br/>12 hours",
+            "desc": "Only in this week. Don’t misss!",
+            "shop": "bg-warning",
+            "price": {
+                "del": "$29.99",
+                "ins": "$15.99",
+                "color": "text-warning"
+            },
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-warning ps-center"
+            },
+            "img": "/img/promotion/slide14.jpg",
+            "bgColor": "#E8F5F4",
+            "textColor": "text-dark",
+            "imgbg": "d-block"
+        },
+        {
+            "title": "Mouth Rinse <br/>12 hours",
+            "desc": "Only in this week. Don’t misss!",
+            "shop": "bg-warning",
+            "button": [
+                {
+                    "icon": "/img/icon/bacterial.svg",
+                    "text": "Anti-Bacterial"
+                },
+                {
+                    "icon": "/img/icon/virus.svg",
+                    "text": "Anti-Virus"
+                }
+            ],
+            "img": "/img/promotion/slide16.jpg",
+            "bgColor": "#F2F2F2",
+            "textColor": "text-white",
+            "imgbg": "d-block",
+            "filter": "filter: brightness(0) invert(1);"
+        }
+    ],
+    "home13BannerContent": [
+        {
+            "title": "Take care <br/>of yourself and your skin ",
+            "shop": "bg-white",
+            "textShop": "Sunscreens",
+            "button": [
+                {
+                    "icon": "/img/icon/icon11.png",
+                    "text": "Best quality"
+                },
+                {
+                    "icon": "/img/icon/icon12.png",
+                    "text": "Day & Night"
+                }
+            ],
+            "img": "/img/promotion/bg-banner16.jpg",
+            "bgColor": "#FD8D27"
+        },
+        {
+            "title": "Stay focused <br/>with best <br/>supplements",
+            "shop": "bg-warning",
+            "textShop": "Supplements",
+            "img": "/img/promotion/bg-banner17.jpg",
+            "bgColor": "#182947"
+        }
+    ],
+    "home13BannerBottom": [
+        {
+            "banner": "/img/promotion/banner-home13-1.jpg",
+            "title": "Boxed water <br/>is better!",
+            "btnName": "Shop now",
+            "sale": "-30%",
+            "classTitle": "text-dark",
+            "saleColor": "text-dark",
+            "btnClass": "btn-green"
+        },
+        {
+            "banner": "/img/promotion/banner-home13-2.jpg",
+            "title": "Power Effect <br/>Pro Series",
+            "btnName": "More",
+            "badge": "New",
+            "classTitle": "text-white",
+            "btnClass": "btn-green",
+            "image": "/img/icon/icon9.png"
+        },
+        {
+            "banner": "/img/promotion/banner-home13-3.jpg",
+            "title": "Power Effect <br/>Pro Series",
+            "btnName": "Buy now",
+            "price": "$15.99",
+            "del": "$29.99",
+            "priceColor": "text-white",
+            "classTitle": "text-white",
+            "btnClass": "btn-green"
+        }
+    ],
+    "home14Top": [
+        {
+            "banner": "/img/promotion/bg-promo1.jpg",
+            "title": "Power Effect <br/>Pro Series",
+            "btnName": "More",
+            "badge": "New",
+            "classTitle": "text-dark",
+            "btnClass": "btn-green",
+            "image": "/img/icon/icon10.png"
+        },
+        {
+            "banner": "/img/promotion/bg-promo2.jpg",
+            "title": "Eczema <br/>Treatment CBD <br/>Ointement",
+            "btnName": "Shop now",
+            "sale": "-30%",
+            "classTitle": "text-white",
+            "saleColor": "text-white",
+            "btnClass": "btn-green"
+        },
+        {
+            "banner": "/img/promotion/bg-promo3.jpg",
+            "title": "SFP 50+ <br/>Suncream",
+            "btnName": "Buy now",
+            "price": "$6.99",
+            "del": "$19.99",
+            "priceColor": "text-warning",
+            "classTitle": "text-white",
+            "btnClass": "btn-green",
+            "delColor": "text-white"
+        }
+    ],
+    "home14center": [
+        {
+            "banner": "/img/promotion/bg-banner20.jpg",
+            "title": "FaceWash <br/>up to -20%",
+            "btnName": "More",
+            "badge": "New",
+            "classTitle": "text-white",
+            "btnClass": "btn-green",
+            "image": "/img/icon/icon19.png"
+        },
+        {
+            "banner": "/img/promotion/bg-banner21.jpg",
+            "title": "PREHCU <br/>Workout",
+            "btnName": "Buy now",
+            "price": "$6.99",
+            "del": "$19.99",
+            "priceColor": "text-warning",
+            "classTitle": "text-white",
+            "btnClass": "btn-green",
+            "delColor": "text-white"
+        },
+        {
+            "banner": "/img/promotion/bg-banner22.jpg",
+            "title": "Neauthy <br/>creams",
+            "btnName": "Buy now",
+            "price": "$12.99",
+            "del": "$19.99",
+            "priceColor": "text-warning",
+            "classTitle": "text-dark",
+            "btnClass": "btn-green",
+            "delColor": "text-dark"
+        }
+    ],
+    "home14Bottom": [
+        {
+            "banner": "/img/promotion/bg-banner23.jpg",
+            "title": "PowerUp <br/>Lemon",
+            "btnName": "Buy now",
+            "price": "$38.24",
+            "del": "$48.24",
+            "priceColor": "text-warning",
+            "classTitle": "text-dark",
+            "btnClass": "btn-green",
+            "delColor": "text-dark"
+        },
+        {
+            "banner": "/img/promotion/bg-banner24.jpg",
+            "title": "TwoEXP+ <br/>Areozol",
+            "btnName": "Buy now",
+            "price": "$8.24",
+            "del": "$12.24",
+            "priceColor": "text-warning",
+            "classTitle": "text-dark",
+            "btnClass": "btn-green",
+            "delColor": "text-dark"
+        },
+        {
+            "banner": "/img/promotion/bg-banner25.jpg",
+            "title": "Cranberry <br/>Brand",
+            "btnName": "Buy now",
+            "price": "$13.24",
+            "del": "$18.24",
+            "priceColor": "text-warning",
+            "classTitle": "text-dark",
+            "btnClass": "btn-green",
+            "delColor": "text-dark"
+        },
+        {
+            "banner": "/img/promotion/bg-banner26.jpg",
+            "title": "Recoup <br/>Recovery",
+            "btnName": "Buy now",
+            "price": "$8.24",
+            "del": "$12.24",
+            "priceColor": "text-warning",
+            "classTitle": "text-dark",
+            "btnClass": "btn-green",
+            "delColor": "text-dark"
+        }
+    ],
+    "home15Banner": [
+        {
+            "title": "Premium CBD <br/>Oil 1000mg",
+            "desc": "Only in this week. Don’t misss!",
+            "shop": "bg-white text-dark",
+            "price": {
+                "del": "$29.99",
+                "ins": "$15.99",
+                "color": "text-dark"
+            },
+            "img": "/img/promotion/slide15.jpg",
+            "bgColor": "#DAECFA",
+            "imgbg": "d-block"
+        },
+        {
+            "title": "Mouth Rinse <br/>12 hours",
+            "desc": "Only in this week. Don’t misss!",
+            "shop": "bg-warning",
+            "price": {
+                "del": "$29.99",
+                "ins": "$15.99",
+                "color": "text-warning"
+            },
+            "percent": {
+                "text": "-30%",
+                "extraClass": "bg-warning ps-center"
+            },
+            "img": "/img/promotion/slide17.jpg",
+            "bgColor": "#e9f5f5",
+            "imgbg": "d-block bg-padding",
+            "textColor": "text-dark"
+        }
+    ],
+    "home15Top": [
+        {
+            "banner": "/img/promotion/promo12.jpg",
+            "title": "Pure Natural <br/>Creams",
+            "btnName": "Shop now",
+            "btnClass": "btn-white",
+            "classTitle": "text-white"
+        },
+        {
+            "banner": "/img/promotion/promo13.jpg",
+            "title": "Orange Relief <br/>for your body",
+            "btnName": "Shop now",
+            "btnClass": "btn-white",
+            "classTitle": "text-white"
+        },
+        {
+            "banner": "/img/promotion/promo14.jpg",
+            "title": "Herbal Power <br/>Skin Care",
+            "btnName": "Shop now",
+            "btnClass": "btn-white",
+            "classTitle": "text-white"
+        }
+    ]
+}

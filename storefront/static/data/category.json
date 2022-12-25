@@ -1,0 +1,258 @@
+{
+    "categories": [
+        {
+            "name": "Wound Care",
+            "list": [
+                {
+                    "text": "Accessories",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Bandages",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Gypsum foundations",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Patches and tapes",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Surgical sutures",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Swabs",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Wound healing",
+                    "url": "/shop"
+                }
+            ]
+        },
+        {
+            "name": "Higiene",
+            "list": [
+                {
+                    "text": "Disinfectants",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Disposable products",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Face Masks - protective",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Gloves",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Protective clothing",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Sterilization",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Surgical foils",
+                    "url": "/shop"
+                }
+            ]
+        },
+        {
+            "name": "Laboratory",
+            "list": [
+                {
+                    "text": "Accessories",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Devices",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Diagnostic tests",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Dyes",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Pipettes",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Tubes",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Test-tubes",
+                    "url": "/shop"
+                }
+            ]
+        },
+        {
+            "name": "Tools",
+            "list": [
+                {
+                    "text": "Care products",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Claws and forceps",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Electrosurgery",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Needles",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Plaster tools",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Scalpels, blades",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Scissors",
+                    "url": "/shop"
+                }
+            ]
+        },
+        {
+            "name": "Diagnosis",
+            "list": [
+                {
+                    "text": "Accessories",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Biopsy tools",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Endoscopes",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Monitoring",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Otoscopes",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Oxygen concentrators",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Thermometers",
+                    "url": "/shop"
+                }
+            ]
+        },
+        {
+            "name": "Equipment",
+            "list": [
+                {
+                    "text": "Blades",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Education",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Germicidal lamps",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Infusion stands",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Lighting",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Machines",
+                    "url": "/shop"
+                },
+                {
+                    "text": "Tables and assistants",
+                    "url": "/shop"
+                }
+            ]
+        }
+    ],
+    "popularCategories": [
+        {
+            "text": "Bandages",
+            "image": "/img/branch/plastercross.svg"
+        },
+        {
+            "text": "Capsules",
+            "image": "/img/branch/capsule.svg"
+        },
+        {
+            "text": "Dental",
+            "image": "/img/branch/dental.svg"
+        },
+        {
+            "text": "Thermometer",
+            "image": "/img/branch/thermometer.svg"
+        },
+        {
+            "text": "Heart Health",
+            "image": "/img/branch/heart-healt.svg"
+        },
+        {
+            "text": "Micrscope",
+            "image": "/img/branch/microscope.svg"
+        },
+        {
+            "text": "Tubes",
+            "image": "/img/branch/tube.svg"
+        }
+    ],
+    "categoryImage": [
+        {
+            "name": "Face masks",
+            "image": "/img/promotion/facemask-cat.png"
+        },
+        {
+            "name": "Uniforms",
+            "image": "/img/promotion/uniforms-cat.png"
+        },
+        {
+            "name": "Protective covers",
+            "image": "/img/promotion/protectcover-cat.png"
+        },
+        {
+            "name": "Dental",
+            "image": "/img/promotion/dental-cat.png"
+        },
+        {
+            "name": "Blood pressure",
+            "image": "/img/promotion/pressure-cat.png"
+        },
+        {
+            "name": "Sugar level",
+            "image": "/img/promotion/sugarlevel-cat.png"
+        }
+    ]
+}

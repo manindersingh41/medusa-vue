@@ -1,0 +1,1696 @@
+{
+    "mainMenu": [
+        {
+            "text": "Products",
+            "url": "#",
+            "extraClass": "has-mega-menu",
+            "icon": "fa fa-bars",
+            "megaContent": [
+                {
+                    "heading": "Wound Care",
+                    "megaItems": [
+                        {
+                            "text": "Bandages",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Gypsum foundations",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Patches and tapes",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Stomatology",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Surgical sutures",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Uniforms",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Wound healing",
+                            "url": "/shop/list"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Higiene",
+                    "megaItems": [
+                        {
+                            "text": "Disposable products",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Face masks",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Gloves",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Protective covers",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Sterilization",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Surgical foils",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Uniforms",
+                            "url": "/shop/list"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Laboratory",
+                    "megaItems": [
+                        {
+                            "text": "Devices",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Diagnostic tests",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Disinfectants",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Dyes",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Pipettes",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Test-tubes",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Tubes",
+                            "url": "/shop/list"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Tools",
+                    "megaItems": [
+                        {
+                            "text": "Accessories Tools",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Blood pressure",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Capsules",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Dental",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Micrscope",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Pressure",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Sugar level",
+                            "url": "/shop/list"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Diagnosis",
+                    "megaItems": [
+                        {
+                            "text": "Biopsy tools",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Endoscopes",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Monitoring",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Otoscopes",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Oxygen concentrators",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Tables and assistants",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Thermometer",
+                            "url": "/shop/list"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Equipment",
+                    "megaItems": [
+                        {
+                            "text": "Blades",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Education",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Germicidal lamps",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Heart Health",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Infusion stands",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Lighting",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Machines",
+                            "url": "/shop/list"
+                        }
+                    ]
+                }
+            ],
+            "branch": true
+        },
+        {
+            "text": "Home Medical Supplies",
+            "url": "#",
+            "extraClass": "has-mega-menu",
+            "megaContent": [
+                {
+                    "megaColumn": "col-12 col-sm-3",
+                    "megaItems": [
+                        {
+                            "text": "Diagnosis",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Accessories Tools",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Bandages",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Biopsy tools",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Blades",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Blood pressure",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Capsules",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Dental",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Devices",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Diagnostic tests",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Disposable products",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Education",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Endoscopes",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Equipment",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Show all",
+                            "url": "/shop/list"
+                        }
+                    ]
+                },
+                {
+                    "megaColumn": "col-12 col-sm-5 col-md-6",
+                    "promo": true
+                },
+                {
+                    "megaColumn": "col-12 col-sm-4 col-md-3",
+                    "product": true
+                }
+            ]
+        },
+        {
+            "text": "Homepages",
+            "url": "#",
+            "extraClass": "has-mega-menu",
+            "home": true,
+            "megaContent": [
+                {
+                    "heading": "Home 1",
+                    "image": "/img/promotion/1.jpg",
+                    "url": "/"
+                },
+                {
+                    "heading": "Home 2",
+                    "image": "/img/promotion/2.jpg",
+                    "url": "/homepage/home-2"
+                },
+                {
+                    "heading": "Home 3",
+                    "image": "/img/promotion/3.jpg",
+                    "url": "/homepage/home-3"
+                },
+                {
+                    "heading": "Home 4",
+                    "image": "/img/promotion/4.jpg",
+                    "url": "/homepage/home-4"
+                },
+                {
+                    "heading": "Home 5",
+                    "image": "/img/promotion/5.jpg",
+                    "url": "/homepage/home-5"
+                },
+                {
+                    "heading": "Home 6 Masks",
+                    "image": "/img/promotion/6.jpg",
+                    "url": "/homepage/home-6"
+                },
+                {
+                    "heading": "Home 7 One product",
+                    "image": "/img/promotion/7.jpg",
+                    "url": "/homepage/home-7"
+                },
+                {
+                    "heading": "Home 08",
+                    "url": "/homepage/home-8",
+                    "image": "/img/promotion/8.jpg",
+                    "new": true
+                },
+                {
+                    "heading": "Home 09",
+                    "url": "/homepage/home-9",
+                    "image": "/img/promotion/9.jpg",
+                    "new": true
+                },
+                {
+                    "heading": "Home 10",
+                    "url": "/homepage/home-10",
+                    "image": "/img/promotion/10.jpg",
+                    "new": true
+                },
+                {
+                    "heading": "Home 11",
+                    "url": "/homepage/home-11",
+                    "image": "/img/promotion/11.jpg",
+                    "new": true
+                },
+                {
+                    "heading": "Home 12",
+                    "url": "/homepage/home-12",
+                    "image": "/img/promotion/12.jpg",
+                    "new": true
+                },
+                {
+                    "heading": "Home 13",
+                    "url": "/homepage/home-13",
+                    "image": "/img/promotion/13.jpg",
+                    "new": true
+                },
+                {
+                    "heading": "Home 14",
+                    "url": "/homepage/home-14",
+                    "image": "/img/promotion/14.jpg",
+                    "new": true
+                },
+                {
+                    "heading": "Home 15",
+                    "url": "/homepage/home-15",
+                    "image": "/img/promotion/15.jpg",
+                    "new": true
+                }
+            ]
+        },
+        {
+            "text": "Shop",
+            "url": "/shop",
+            "extraClass": "has-mega-menu"
+        },
+        {
+            "text": "Pages",
+            "url": "#",
+            "extraClass": "has-mega-menu",
+            "megaContent": [
+                {
+                    "heading": "Category",
+                    "megaItems": [
+                        {
+                            "text": "Promo Category",
+                            "url": "/shop/promo-category"
+                        },
+                        {
+                            "text": "Grid",
+                            "url": "/shop/grid"
+                        },
+                        {
+                            "text": "Grid with details",
+                            "url": "/shop/grid-detail"
+                        },
+                        {
+                            "text": "Grid separate",
+                            "url": "/shop/grid-separate"
+                        },
+                        {
+                            "text": "Grid with header green",
+                            "url": "/shop/grid-green"
+                        },
+                        {
+                            "text": "Grid with header dark",
+                            "url": "/shop/grid-dark"
+                        },
+                        {
+                            "text": "List",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Load more button",
+                            "url": "/shop/list-load-more"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Pages",
+                    "megaItems": [
+                        {
+                            "text": "404",
+                            "url": "/404"
+                        },
+                        {
+                            "text": "About us",
+                            "url": "/about-us"
+                        },
+                        {
+                            "text": "Contact us",
+                            "url": "/contact-us"
+                        },
+                        {
+                            "text": "Portfolio",
+                            "url": "/portfolio"
+                        },
+                        {
+                            "text": "Porfolio Detail",
+                            "url": "/portfolio/1"
+                        },
+                        {
+                            "text": "My Account",
+                            "url": "/account/my-account"
+                        },
+                        {
+                            "text": "Shopping Cart",
+                            "url": "/shop/shopping-cart"
+                        },
+                        {
+                            "text": "Coming soon 1",
+                            "url": "/coming-soon/v1"
+                        },
+                        {
+                            "text": "Coming soon 2",
+                            "url": "/coming-soon/v2"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Product",
+                    "megaItems": [
+                        {
+                            "text": "Layout 01",
+                            "url": "/product/layout/layout-1/2"
+                        },
+                        {
+                            "text": "Layout 02",
+                            "url": "/product/layout/layout-2/3"
+                        },
+                        {
+                            "text": "Layout 03",
+                            "url": "/product/layout/layout-3/4"
+                        },
+                        {
+                            "text": "Layout 04",
+                            "url": "/product/layout/layout-4/5"
+                        },
+                        {
+                            "text": "Layout 05",
+                            "url": "/product/layout/layout-5/37"
+                        },
+                        {
+                            "text": "Layout 06",
+                            "url": "/product/layout/layout-6/52"
+                        },
+                        {
+                            "text": "Layout 07",
+                            "url": "/product/layout/layout-7/49"
+                        },
+                        {
+                            "text": "Product variable",
+                            "url": "/product/layout/product-variable/7"
+                        },
+                        {
+                            "text": "Product sold out",
+                            "url": "/product/layout/product-sold-out/8"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Blog",
+                    "megaItems": [
+                        {
+                            "text": "Blog sidebar 1",
+                            "url": "/blog/sidebar-1"
+                        },
+                        {
+                            "text": "Blog sidebar 2",
+                            "url": "/blog/sidebar-2"
+                        },
+                        {
+                            "text": "Blog Masonry",
+                            "url": "/blog/masonry"
+                        },
+                        {
+                            "text": "Blog post 1",
+                            "url": "/blog/post-detail-1/2"
+                        },
+                        {
+                            "text": "Blog post 2",
+                            "url": "/blog/post-detail-2/2"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Home",
+                    "megaItems": [
+                        {
+                            "text": "Home 01",
+                            "url": "/"
+                        },
+                        {
+                            "text": "Home 02",
+                            "url": "/homepage/home-2"
+                        },
+                        {
+                            "text": "Home 03",
+                            "url": "/homepage/home-3"
+                        },
+                        {
+                            "text": "Home 04",
+                            "url": "/homepage/home-4"
+                        },
+                        {
+                            "text": "Home 05",
+                            "url": "/homepage/home-5"
+                        },
+                        {
+                            "text": "Home 06",
+                            "url": "/homepage/home-6"
+                        },
+                        {
+                            "text": "Home 07",
+                            "url": "/homepage/home-7"
+                        },
+                        {
+                            "text": "Home 08",
+                            "url": "/homepage/home-8",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 09",
+                            "url": "/homepage/home-9",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 10",
+                            "url": "/homepage/home-10",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 11",
+                            "url": "/homepage/home-11",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 12",
+                            "url": "/homepage/home-12",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 13",
+                            "url": "/homepage/home-13",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 14",
+                            "url": "/homepage/home-14",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 15",
+                            "url": "/homepage/home-15",
+                            "new": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Collection",
+            "url": "#",
+            "extraClass": "has-mega-menu",
+            "megaContent": [
+                {
+                    "megaColumn": "col-12 col-md-3",
+                    "megaItems": [
+                        {
+                            "text": "Diagnosis",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Accessories Tools",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Bandages",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Biopsy tools",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Blades",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Blood pressure",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Capsules",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Dental",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Devices",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Show all",
+                            "url": "/shop/list"
+                        }
+                    ]
+                },
+                {
+                    "megaColumn": "col-12 col-md-9",
+                    "collection": true
+                }
+            ]
+        },
+        {
+            "text": "Blog",
+            "url": "/blog/sidebar-1",
+            "extraClass": "has-mega-menu"
+        },
+        {
+            "text": "Contact",
+            "url": "/contact-us",
+            "extraClass": "has-mega-menu"
+        }
+    ],
+    "menuMobile": [
+        {
+            "text": "Products",
+            "url": "#",
+            "extraClass": "menu-item-has-children",
+            "subClass": "sub-menu",
+            "subMenu": [
+                {
+                    "text": "Wound Care",
+                    "url": "#",
+                    "subClass": "sub-menu",
+                    "subMenu": [
+                        {
+                            "text": "Bandages",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Gypsum foundations",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Patches and tapes",
+                            "url": "/shop/list"
+                        }
+                    ]
+                },
+                {
+                    "text": "Higiene",
+                    "url": "#",
+                    "subClass": "sub-menu",
+                    "subMenu": [
+                        {
+                            "text": "Disposable products",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Face masks",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Gloves",
+                            "url": "/shop/list"
+                        }
+                    ]
+                },
+                {
+                    "text": "Laboratory",
+                    "url": "#",
+                    "subClass": "sub-menu",
+                    "subMenu": [
+                        {
+                            "text": "Devices",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Diagnostic tests",
+                            "url": "/shop/list"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Home Medical Supplies",
+            "url": "#",
+            "extraClass": "menu-item-has-children",
+            "subClass": "sub-menu",
+            "subMenu": [
+                {
+                    "text": "Diagnosis",
+                    "url": "/shop/list"
+                },
+                {
+                    "text": "Accessories Tools",
+                    "url": "/shop/list"
+                },
+                {
+                    "text": "Bandages",
+                    "url": "/shop/list"
+                }
+            ]
+        },
+        {
+            "text": "Homepages",
+            "url": "#",
+            "extraClass": "menu-item-has-children",
+            "subClass": "sub-menu",
+            "subMenu": [
+                {
+                    "text": "Home 01",
+                    "url": "/"
+                },
+                {
+                    "text": "Home 02",
+                    "url": "/homepage/home-2"
+                },
+                {
+                    "text": "Home 03",
+                    "url": "/homepage/home-3"
+                },
+                {
+                    "text": "Home 04",
+                    "url": "/homepage/home-4"
+                },
+                {
+                    "text": "Home 05",
+                    "url": "/homepage/home-5"
+                },
+                {
+                    "text": "Home 06",
+                    "url": "/homepage/home-6"
+                },
+                {
+                    "text": "Home 07",
+                    "url": "/homepage/home-7"
+                },
+                {
+                    "text": "Home 08",
+                    "url": "/homepage/home-8"
+                },
+                {
+                    "text": "Home 09",
+                    "url": "/homepage/home-9"
+                },
+                {
+                    "text": "Home 10",
+                    "url": "/homepage/home-10"
+                },
+                {
+                    "text": "Home 11",
+                    "url": "/homepage/home-11"
+                },
+                {
+                    "text": "Home 12",
+                    "url": "/homepage/home-12"
+                },
+                {
+                    "text": "Home 13",
+                    "url": "/homepage/home-13"
+                },
+                {
+                    "text": "Home 14",
+                    "url": "/homepage/home-14"
+                },
+                {
+                    "text": "Home 15",
+                    "url": "/homepage/home-15"
+                }
+            ]
+        },
+        {
+            "text": "Shop",
+            "url": "/shop",
+            "extraClass": "menu-item-has-children"
+        },
+        {
+            "text": "Pages",
+            "url": "#",
+            "extraClass": "menu-item-has-children",
+            "subClass": "sub-menu",
+            "subMenu": [
+                {
+                    "text": "Category",
+                    "url": "#",
+                    "subClass": "sub-menu",
+                    "subMenu": [
+                        {
+                            "text": "Grid",
+                            "url": "/shop/grid"
+                        },
+                        {
+                            "text": "Grid with details",
+                            "url": "/shop/grid-detail"
+                        },
+                        {
+                            "text": "Grid separate",
+                            "url": "/shop/grid-separate"
+                        },
+                        {
+                            "text": "Grid with header green",
+                            "url": "/shop/grid-green"
+                        },
+                        {
+                            "text": "Grid with header dark",
+                            "url": "/shop/grid-dark"
+                        },
+                        {
+                            "text": "List",
+                            "url": "/shop/list"
+                        }
+                    ]
+                },
+                {
+                    "text": "Product",
+                    "url": "#",
+                    "subClass": "sub-menu",
+                    "subMenu": [
+                        {
+                            "text": "Layout 01",
+                            "url": "/product/layout/layout-1/2"
+                        },
+                        {
+                            "text": "Layout 02",
+                            "url": "/product/layout/layout-2/3"
+                        },
+                        {
+                            "text": "Layout 03",
+                            "url": "/product/layout/layout-3/4"
+                        },
+                        {
+                            "text": "Layout 04",
+                            "url": "/product/layout/layout-4/5"
+                        },
+                        {
+                            "text": "Layout 05",
+                            "url": "/product/layout/layout-5/37"
+                        }
+                    ]
+                },
+                {
+                    "text": "Pages",
+                    "url": "#",
+                    "subClass": "sub-menu",
+                    "subMenu": [
+                        {
+                            "text": "404",
+                            "url": "/404"
+                        },
+                        {
+                            "text": "About us",
+                            "url": "/about-us"
+                        },
+                        {
+                            "text": "My Account",
+                            "url": "/account/my-account"
+                        },
+                        {
+                            "text": "Coming soon 1",
+                            "url": "/coming-soon/v1"
+                        },
+                        {
+                            "text": "Coming soon 2",
+                            "url": "/coming-soon/v2"
+                        },
+                        {
+                            "text": "Blog post 1",
+                            "url": "/blog/post-detail-1/2"
+                        },
+                        {
+                            "text": "Blog post 2",
+                            "url": "/blog/post-detail-2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Collection",
+            "url": "#",
+            "extraClass": "menu-item-has-children",
+            "subClass": "sub-menu",
+            "subMenu": [
+                {
+                    "text": "Face masks",
+                    "url": "/shop/list"
+                },
+                {
+                    "text": "Dental",
+                    "url": "/shop/list"
+                },
+                {
+                    "text": "Micrscope",
+                    "url": "/shop/list"
+                }
+            ]
+        },
+        {
+            "text": "Blog",
+            "url": "/blog/sidebar-1",
+            "extraClass": "menu-item-has-children"
+        },
+        {
+            "text": "Contact",
+            "url": "/contact-us",
+            "extraClass": "menu-item-has-children"
+        }
+    ],
+    "navPromo": [
+        {
+            "banner": "/img/promotion/bg-banner4.jpg",
+            "badge": "New",
+            "title": "Get rid of bacteria <br/>in your home",
+            "btnName": "More",
+            "classTitle": "mb-20"
+        },
+        {
+            "banner": "/img/promotion/bg-banner5.jpg",
+            "title": "Candid <br/>Whitening Kit",
+            "btnName": "Shop now",
+            "sale": "-10%"
+        }
+    ],
+    "menuTopHome2": [
+        {
+            "text": "About",
+            "url": "/about-us",
+            "extraClass": "nav-item",
+            "linkClass": "nav-link"
+        },
+        {
+            "text": "Order Tracking",
+            "url": "/",
+            "extraClass": "nav-item",
+            "linkClass": "nav-link"
+        },
+        {
+            "text": "Blog",
+            "url": "/blog/sidebar-1",
+            "extraClass": "nav-item",
+            "linkClass": "nav-link"
+        },
+        {
+            "text": "Contact",
+            "url": "/contact-us",
+            "extraClass": "nav-item",
+            "linkClass": "nav-link"
+        }
+    ],
+    "menuHome3": [
+        {
+            "text": "Products",
+            "url": "#",
+            "extraClass": "has-mega-menu",
+            "icon": "fa fa-bars",
+            "megaContent": [
+                {
+                    "heading": "Category",
+                    "megaItems": [
+                        {
+                            "text": "Promo Category",
+                            "url": "/shop/promo-category"
+                        },
+                        {
+                            "text": "Grid",
+                            "url": "/shop/grid"
+                        },
+                        {
+                            "text": "Grid with details",
+                            "url": "/shop/grid-detail"
+                        },
+                        {
+                            "text": "Grid separate",
+                            "url": "/shop/grid-separate"
+                        },
+                        {
+                            "text": "Grid with header green",
+                            "url": "/shop/grid-green"
+                        },
+                        {
+                            "text": "Grid with header dark",
+                            "url": "/shop/grid-dark"
+                        },
+                        {
+                            "text": "List",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Load more button",
+                            "url": "/shop/list-load-more"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Pages",
+                    "megaItems": [
+                        {
+                            "text": "404",
+                            "url": "/404"
+                        },
+                        {
+                            "text": "About us",
+                            "url": "/about-us"
+                        },
+                        {
+                            "text": "Contact us",
+                            "url": "/contact-us"
+                        },
+                        {
+                            "text": "Portfolio",
+                            "url": "/portfolio"
+                        },
+                        {
+                            "text": "Porfolio Detail",
+                            "url": "/portfolio/1"
+                        },
+                        {
+                            "text": "My Account",
+                            "url": "/account/my-account"
+                        },
+                        {
+                            "text": "Shopping Cart",
+                            "url": "/shop/shopping-cart"
+                        },
+                        {
+                            "text": "Coming soon 1",
+                            "url": "/coming-soon/v1"
+                        },
+                        {
+                            "text": "Coming soon 2",
+                            "url": "/coming-soon/v2"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Product",
+                    "megaItems": [
+                        {
+                            "text": "Layout 01",
+                            "url": "/product/layout/layout-1/2"
+                        },
+                        {
+                            "text": "Layout 02",
+                            "url": "/product/layout/layout-2/3"
+                        },
+                        {
+                            "text": "Layout 03",
+                            "url": "/product/layout/layout-3/4"
+                        },
+                        {
+                            "text": "Layout 04",
+                            "url": "/product/layout/layout-4/5"
+                        },
+                        {
+                            "text": "Layout 05",
+                            "url": "/product/layout/layout-5/37"
+                        },
+                        {
+                            "text": "Layout 06",
+                            "url": "/product/layout/layout-6/52"
+                        },
+                        {
+                            "text": "Layout 07",
+                            "url": "/product/layout/layout-7/49"
+                        },
+                        {
+                            "text": "Product variable",
+                            "url": "/product/layout/product-variable/7"
+                        },
+                        {
+                            "text": "Product sold out",
+                            "url": "/product/layout/product-sold-out/8"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Blog",
+                    "megaItems": [
+                        {
+                            "text": "Blog sidebar 1",
+                            "url": "/blog/sidebar-1"
+                        },
+                        {
+                            "text": "Blog sidebar 2",
+                            "url": "/blog/sidebar-2"
+                        },
+                        {
+                            "text": "Blog Masonry",
+                            "url": "/blog/masonry"
+                        },
+                        {
+                            "text": "Blog post 1",
+                            "url": "/blog/post-detail-1/2"
+                        },
+                        {
+                            "text": "Blog post 2",
+                            "url": "/blog/post-detail-2/2"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Home",
+                    "megaItems": [
+                        {
+                            "text": "Home 01",
+                            "url": "/"
+                        },
+                        {
+                            "text": "Home 02",
+                            "url": "/homepage/home-2"
+                        },
+                        {
+                            "text": "Home 03",
+                            "url": "/homepage/home-3"
+                        },
+                        {
+                            "text": "Home 04",
+                            "url": "/homepage/home-4"
+                        },
+                        {
+                            "text": "Home 05",
+                            "url": "/homepage/home-5"
+                        },
+                        {
+                            "text": "Home 06",
+                            "url": "/homepage/home-6"
+                        },
+                        {
+                            "text": "Home 07",
+                            "url": "/homepage/home-7"
+                        },
+                        {
+                            "text": "Home 08",
+                            "url": "/homepage/home-8",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 09",
+                            "url": "/homepage/home-9",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 10",
+                            "url": "/homepage/home-10",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 11",
+                            "url": "/homepage/home-11",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 12",
+                            "url": "/homepage/home-12",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 13",
+                            "url": "/homepage/home-13",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 14",
+                            "url": "/homepage/home-14",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 15",
+                            "url": "/homepage/home-15",
+                            "new": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "menuHome9": [
+        {
+            "text": "Our Masks",
+            "url": "#",
+            "extraClass": "has-mega-menu",
+            "icon": "fa fa-bars",
+            "megaContent": [
+                {
+                    "heading": "Category",
+                    "megaItems": [
+                        {
+                            "text": "Promo Category",
+                            "url": "/shop/promo-category"
+                        },
+                        {
+                            "text": "Grid",
+                            "url": "/shop/grid"
+                        },
+                        {
+                            "text": "Grid with details",
+                            "url": "/shop/grid-detail"
+                        },
+                        {
+                            "text": "Grid separate",
+                            "url": "/shop/grid-separate"
+                        },
+                        {
+                            "text": "Grid with header green",
+                            "url": "/shop/grid-green"
+                        },
+                        {
+                            "text": "Grid with header dark",
+                            "url": "/shop/grid-dark"
+                        },
+                        {
+                            "text": "List",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Load more button",
+                            "url": "/shop/list-load-more"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Pages",
+                    "megaItems": [
+                        {
+                            "text": "404",
+                            "url": "/404"
+                        },
+                        {
+                            "text": "About us",
+                            "url": "/about-us"
+                        },
+                        {
+                            "text": "Contact us",
+                            "url": "/contact-us"
+                        },
+                        {
+                            "text": "Portfolio",
+                            "url": "/portfolio"
+                        },
+                        {
+                            "text": "Porfolio Detail",
+                            "url": "/portfolio/1"
+                        },
+                        {
+                            "text": "My Account",
+                            "url": "/account/my-account"
+                        },
+                        {
+                            "text": "Shopping Cart",
+                            "url": "/shop/shopping-cart"
+                        },
+                        {
+                            "text": "Coming soon 1",
+                            "url": "/coming-soon/v1"
+                        },
+                        {
+                            "text": "Coming soon 2",
+                            "url": "/coming-soon/v2"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Product",
+                    "megaItems": [
+                        {
+                            "text": "Layout 01",
+                            "url": "/product/layout/layout-1/2"
+                        },
+                        {
+                            "text": "Layout 02",
+                            "url": "/product/layout/layout-2/3"
+                        },
+                        {
+                            "text": "Layout 03",
+                            "url": "/product/layout/layout-3/4"
+                        },
+                        {
+                            "text": "Layout 04",
+                            "url": "/product/layout/layout-4/5"
+                        },
+                        {
+                            "text": "Layout 05",
+                            "url": "/product/layout/layout-5/37"
+                        },
+                        {
+                            "text": "Layout 06",
+                            "url": "/product/layout/layout-6/52"
+                        },
+                        {
+                            "text": "Layout 07",
+                            "url": "/product/layout/layout-7/49"
+                        },
+                        {
+                            "text": "Product variable",
+                            "url": "/product/layout/product-variable/7"
+                        },
+                        {
+                            "text": "Product sold out",
+                            "url": "/product/layout/product-sold-out/8"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Blog",
+                    "megaItems": [
+                        {
+                            "text": "Blog sidebar 1",
+                            "url": "/blog/sidebar-1"
+                        },
+                        {
+                            "text": "Blog sidebar 2",
+                            "url": "/blog/sidebar-2"
+                        },
+                        {
+                            "text": "Blog Masonry",
+                            "url": "/blog/masonry"
+                        },
+                        {
+                            "text": "Blog post 1",
+                            "url": "/blog/post-detail-1/2"
+                        },
+                        {
+                            "text": "Blog post 2",
+                            "url": "/blog/post-detail-2/2"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Home",
+                    "megaItems": [
+                        {
+                            "text": "Home 01",
+                            "url": "/"
+                        },
+                        {
+                            "text": "Home 02",
+                            "url": "/homepage/home-2"
+                        },
+                        {
+                            "text": "Home 03",
+                            "url": "/homepage/home-3"
+                        },
+                        {
+                            "text": "Home 04",
+                            "url": "/homepage/home-4"
+                        },
+                        {
+                            "text": "Home 05",
+                            "url": "/homepage/home-5"
+                        },
+                        {
+                            "text": "Home 06",
+                            "url": "/homepage/home-6"
+                        },
+                        {
+                            "text": "Home 07",
+                            "url": "/homepage/home-7"
+                        },
+                        {
+                            "text": "Home 08",
+                            "url": "/homepage/home-8",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 09",
+                            "url": "/homepage/home-9",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 10",
+                            "url": "/homepage/home-10",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 11",
+                            "url": "/homepage/home-11",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 12",
+                            "url": "/homepage/home-12",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 13",
+                            "url": "/homepage/home-13",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 14",
+                            "url": "/homepage/home-14",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 15",
+                            "url": "/homepage/home-15",
+                            "new": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "menuHome11": [
+        {
+            "text": "Products",
+            "url": "#",
+            "extraClass": "has-mega-menu",
+            "icon": "fa fa-bars",
+            "megaContent": [
+                {
+                    "heading": "Category",
+                    "megaItems": [
+                        {
+                            "text": "Promo Category",
+                            "url": "/shop/promo-category"
+                        },
+                        {
+                            "text": "Grid",
+                            "url": "/shop/grid"
+                        },
+                        {
+                            "text": "Grid with details",
+                            "url": "/shop/grid-detail"
+                        },
+                        {
+                            "text": "Grid separate",
+                            "url": "/shop/grid-separate"
+                        },
+                        {
+                            "text": "Grid with header green",
+                            "url": "/shop/grid-green"
+                        },
+                        {
+                            "text": "Grid with header dark",
+                            "url": "/shop/grid-dark"
+                        },
+                        {
+                            "text": "List",
+                            "url": "/shop/list"
+                        },
+                        {
+                            "text": "Load more button",
+                            "url": "/shop/list-load-more"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Pages",
+                    "megaItems": [
+                        {
+                            "text": "404",
+                            "url": "/404"
+                        },
+                        {
+                            "text": "About us",
+                            "url": "/about-us"
+                        },
+                        {
+                            "text": "Contact us",
+                            "url": "/contact-us"
+                        },
+                        {
+                            "text": "Portfolio",
+                            "url": "/portfolio"
+                        },
+                        {
+                            "text": "Porfolio Detail",
+                            "url": "/portfolio/1"
+                        },
+                        {
+                            "text": "My Account",
+                            "url": "/account/my-account"
+                        },
+                        {
+                            "text": "Shopping Cart",
+                            "url": "/shop/shopping-cart"
+                        },
+                        {
+                            "text": "Coming soon 1",
+                            "url": "/coming-soon/v1"
+                        },
+                        {
+                            "text": "Coming soon 2",
+                            "url": "/coming-soon/v2"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Product",
+                    "megaItems": [
+                        {
+                            "text": "Layout 01",
+                            "url": "/product/layout/layout-1/2"
+                        },
+                        {
+                            "text": "Layout 02",
+                            "url": "/product/layout/layout-2/3"
+                        },
+                        {
+                            "text": "Layout 03",
+                            "url": "/product/layout/layout-3/4"
+                        },
+                        {
+                            "text": "Layout 04",
+                            "url": "/product/layout/layout-4/5"
+                        },
+                        {
+                            "text": "Layout 05",
+                            "url": "/product/layout/layout-5/37"
+                        },
+                        {
+                            "text": "Layout 06",
+                            "url": "/product/layout/layout-6/52"
+                        },
+                        {
+                            "text": "Layout 07",
+                            "url": "/product/layout/layout-7/49"
+                        },
+                        {
+                            "text": "Product variable",
+                            "url": "/product/layout/product-variable/7"
+                        },
+                        {
+                            "text": "Product sold out",
+                            "url": "/product/layout/product-sold-out/8"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Blog",
+                    "megaItems": [
+                        {
+                            "text": "Blog sidebar 1",
+                            "url": "/blog/sidebar-1"
+                        },
+                        {
+                            "text": "Blog sidebar 2",
+                            "url": "/blog/sidebar-2"
+                        },
+                        {
+                            "text": "Blog Masonry",
+                            "url": "/blog/masonry"
+                        },
+                        {
+                            "text": "Blog post 1",
+                            "url": "/blog/post-detail-1/2"
+                        },
+                        {
+                            "text": "Blog post 2",
+                            "url": "/blog/post-detail-2/2"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Home",
+                    "megaItems": [
+                        {
+                            "text": "Home 01",
+                            "url": "/"
+                        },
+                        {
+                            "text": "Home 02",
+                            "url": "/homepage/home-2"
+                        },
+                        {
+                            "text": "Home 03",
+                            "url": "/homepage/home-3"
+                        },
+                        {
+                            "text": "Home 04",
+                            "url": "/homepage/home-4"
+                        },
+                        {
+                            "text": "Home 05",
+                            "url": "/homepage/home-5"
+                        },
+                        {
+                            "text": "Home 06",
+                            "url": "/homepage/home-6"
+                        },
+                        {
+                            "text": "Home 07",
+                            "url": "/homepage/home-7"
+                        },
+                        {
+                            "text": "Home 08",
+                            "url": "/homepage/home-8",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 09",
+                            "url": "/homepage/home-9",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 10",
+                            "url": "/homepage/home-10",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 11",
+                            "url": "/homepage/home-11",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 12",
+                            "url": "/homepage/home-12",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 13",
+                            "url": "/homepage/home-13",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 14",
+                            "url": "/homepage/home-14",
+                            "new": true
+                        },
+                        {
+                            "text": "Home 15",
+                            "url": "/homepage/home-15",
+                            "new": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Blog",
+            "url": "/blog/sidebar-1",
+            "extraClass": "nav-item"
+        },
+        {
+            "text": "Contact",
+            "url": "/contact-us",
+            "extraClass": "nav-item"
+        }
+    ]
+}
