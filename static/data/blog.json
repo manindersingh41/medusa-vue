@@ -1,0 +1,122 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "image": "/img/blog/portfolio-4-393x300.jpg",
+            "title": "The latest tests of popular masks in accordance with CV2s standards",
+            "badge": [
+                {
+                    "text": "Design",
+                    "url": "#"
+                },
+                {
+                    "text": "Management",
+                    "url": "#"
+                }
+            ],
+            "design": true,
+            "management": true
+        },
+        {
+            "id": 2,
+            "image": "/img/blog/portfolio-1-393x300.jpg",
+            "title": "New special offer for customers who have been with us for 10 years",
+            "badge": [
+                {
+                    "text": "Management",
+                    "url": "#"
+                }
+            ],
+            "management": true
+        },
+        {
+            "id": 3,
+            "image": "/img/blog/portfolio-5-393x300.jpg",
+            "title": "[PDF REPORT] – Impact of wearing masks on social behavior",
+            "badge": [
+                {
+                    "text": "Fashion",
+                    "url": "#"
+                }
+            ],
+            "fashion": true
+        },
+        {
+            "id": 4,
+            "image": "/img/blog/portfolio-6-393x300.jpg",
+            "title": "The latest tests of popular masks in accordance with CV2s standards",
+            "badge": [
+                {
+                    "text": "Photography",
+                    "url": "#"
+                }
+            ],
+            "photography": true
+        },
+        {
+            "id": 5,
+            "image": "/img/blog/portfolio-2-393x300.jpg",
+            "title": "New special offer for customers who have been with us for 10 years",
+            "badge": [
+                {
+                    "text": "Design",
+                    "url": "#"
+                }
+            ],
+            "design": true
+        },
+        {
+            "id": 6,
+            "image": "/img/blog/portfolio-3-393x300.jpg",
+            "title": "[PDF REPORT] – Impact of wearing masks on social behavior",
+            "badge": [
+                {
+                    "text": "Photography",
+                    "url": "#"
+                }
+            ],
+            "photography": true
+        },
+        {
+            "id": 7,
+            "image": "/img/blog/portfolio-7-393x300.jpg",
+            "title": "The latest tests of popular masks in accordance with CV2s standards",
+            "badge": [
+                {
+                    "text": "Fashion",
+                    "url": "#"
+                }
+            ],
+            "fashion": true
+        },
+        {
+            "id": 8,
+            "image": "/img/blog/portfolio-8-393x300.jpg",
+            "title": "New special offer for customers who have been with us for 10 years",
+            "badge": [
+                {
+                    "text": "Management",
+                    "url": "#"
+                },
+                {
+                    "text": "Fashion",
+                    "url": "#"
+                }
+            ],
+            "management": true,
+            "fashion": true
+        },
+        {
+            "id": 9,
+            "image": "/img/blog/portfolio-9-393x300.jpg",
+            "title": "The latest tests of popular masks in accordance with CV2s standards",
+            "badge": [
+                {
+                    "text": "Photography",
+                    "url": "#"
+                }
+            ],
+            "photography": true
+        }
+    ]
+}

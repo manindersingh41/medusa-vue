@@ -1,0 +1,133 @@
+/*
+    Project: My Medi Vue Template
+    Version: 1.0
+    Date Created: 10/05/2021
+    Developed by: nouthemes
+*/
+
+/*
+    TABLE OF CONTENT
+        1. RESET AND TYPHOGRAPHY
+            1.1 typhography
+        2. ELEMENTS
+            2.1 grid
+            2.2 list
+            2.3 button
+            2.4 form
+            2.5 post
+            2.6 pagination
+            2.7 breadcrumb
+            2.8 block
+            2.9 widget
+            2.10 blog
+            2.11 product
+            2.12 banner
+            2.13 filter
+            2.14 table
+            2.15 loader
+            2.16 modal
+            2.17 tabs
+            2.18 promo
+        3. COMPONENTS
+             3.1 Cart
+             3.2 forms
+             3.3 search
+             3.4 section
+             3.5 pages
+             3.6 Notify
+             3.7 Countdown
+             3.8 Social
+             3.9 menu
+             3.10 landing
+             3.11 portfolio
+             3.12 coming
+             3.13 swiper
+        4. MODULES
+            4.1 header
+            4.2 footer
+        5. HELPERS
+        6. CUSTOM
+*/
+
+@import "utilies/mixin";
+@import "vendor/media_query";
+@import "vendor/bourbon/bourbon";
+
+@import "utilies/settings";
+/*1. RESET AND TYPHOGRAPHY */
+//1.1 typhography
+@import "base/typhography";
+/*2. ELEMENTS */
+//2.1 grid
+@import "elements/grid";
+// 2.2 list
+@import "elements/list";
+// 2.3 button
+@import "elements/button";
+// 2.4 form
+@import "elements/form";
+//2.5 post
+@import "elements/post";
+// 2.6 pagination
+@import "elements/pagination";
+// 2.7 breadcrumb
+@import "elements/breadcrumb";
+// 2.8 block
+@import "elements/block";
+// 2.9 widget
+@import "elements/widget";
+// 2.10 blog
+@import "elements/blog";
+// 2.11 product
+@import "elements/product";
+// 2.12 banner
+@import "elements/banner";
+// 2.13 filter
+@import "elements/filter";
+// 2.14 table
+@import "elements/table";
+// 2.15 loader
+@import "elements/loader";
+// 2.16 modal
+@import "elements/modal";
+// 2.17 tabs
+@import "elements/tabs";
+// 2.18 promo
+@import "elements/promo";
+
+/*3. COMPONENTS */
+// 3.1 Cart
+@import "components/cart";
+// 3.2 forms
+@import "components/forms";
+// 3.3 search
+@import "components/search";
+// 3.4 section
+@import "components/section";
+// 3.5 pages
+@import "components/pages";
+// 3.6 Notify
+@import "components/notify";
+// 3.7 Countdown
+@import "components/countdown";
+// 3.8 Social
+@import "components/social";
+// 3.9 menu
+@import "components/menu";
+// 3.10 landing
+@import "components/landing";
+// 3.11 portfolio
+@import "components/portfolio";
+// 3.12 coming
+@import "components/coming";
+// 3.13 swiper
+@import "components/swiper";
+/*4. MODULES */
+// 4.1 header
+@import "modules/header";
+// 4.2 footer
+@import "modules/footer";
+/*5. HELPERS */
+@import "elements/helpers";
+
+@import "themes/effect";
